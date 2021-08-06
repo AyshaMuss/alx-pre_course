@@ -4,4 +4,4 @@ its to
 ## *Get used to Git
 ## * Get used to how to Git
 ## * perform the task
-~~~~~# alx-pre_course
+~~~~~
