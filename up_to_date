@@ -10,4 +10,5 @@ git push -u origin main
 /*pushing an existing repository from command line*/
 git remote add origin http://github.com/AyshaMuss/pre_course.git
 git branch -M main
+git pull origin main
 git push -u origin main
